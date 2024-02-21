@@ -1,6 +1,6 @@
 # Planner-Service
 
-This app is for those who is learning to build golang microservice. It helps to understand golang packages and code structuring.  It is consumed by [microfrontend](https://github.com/BishnuPandey/Planner-Service) for data handling. 
+This app is for those who is learning to build golang microservice. It helps to understand golang packages and code structuring.  It is consumed by [microfrontend](https://github.com/BishnuPandey/Planner-Frontend) for data handling. 
 
 ### Run the project
 
